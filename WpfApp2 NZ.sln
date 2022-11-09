@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp2 NZ", "WpfApp2 NZ\WpfApp2 NZ.csproj", "{ECCAB12C-7143-4BAC-83F7-09274D4DAD83}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Icons", "Icons", "{051317D6-201B-4BAA-BC3C-AC79F0553537}"
+	ProjectSection(SolutionItems) = preProject
+		Z:\Студенты\БВ111 WINDOWS\icon\AlignCenter.png = Z:\Студенты\БВ111 WINDOWS\icon\AlignCenter.png
+		Z:\Студенты\БВ111 WINDOWS\icon\AlignLeft.png = Z:\Студенты\БВ111 WINDOWS\icon\AlignLeft.png
+		Z:\Студенты\БВ111 WINDOWS\icon\AlignRight.png = Z:\Студенты\БВ111 WINDOWS\icon\AlignRight.png
+		Z:\Студенты\БВ111 WINDOWS\icon\Copy.png = Z:\Студенты\БВ111 WINDOWS\icon\Copy.png
+		Z:\Студенты\БВ111 WINDOWS\icon\Cut.png = Z:\Студенты\БВ111 WINDOWS\icon\Cut.png
+		Z:\Студенты\БВ111 WINDOWS\icon\Paste.png = Z:\Студенты\БВ111 WINDOWS\icon\Paste.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECCAB12C-7143-4BAC-83F7-09274D4DAD83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECCAB12C-7143-4BAC-83F7-09274D4DAD83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECCAB12C-7143-4BAC-83F7-09274D4DAD83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECCAB12C-7143-4BAC-83F7-09274D4DAD83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BF31C0D-15AD-4F71-9B99-55B29207476E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>WpfApp2_NZ</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="icons\AlignCenter.png" />
+    <None Remove="icons\AlignLeft.png" />
+    <None Remove="icons\AlignRight.png" />
+    <None Remove="icons\Copy.png" />
+    <None Remove="icons\Cut.png" />
+    <None Remove="icons\Paste.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="icons\AlignCenter.png" />
+    <Resource Include="icons\AlignLeft.png" />
+    <Resource Include="icons\AlignRight.png" />
+    <Resource Include="icons\Copy.png" />
+    <Resource Include="icons\Cut.png" />
+    <Resource Include="icons\Paste.png" />
+  </ItemGroup>
+
+</Project>
